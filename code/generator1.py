@@ -1,7 +1,7 @@
 import random
 
 # Getting Eugene Onegin text with whitespaces
-with open("/home/alexey/IT/Experiment_text_generator/EugeneOnegin.txt", "r") as f:
+with open("EugeneOnegin.txt", "r") as f:
     text = f.read().replace("\n", "")
 
 letters = dict()
