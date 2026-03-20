@@ -36,5 +36,5 @@ Here I have added the work "Sherlock Holmes" for more possible tokens. Also, I l
 
 ### Special Thanks
 
-I would like to thank ![Vert Dider](https://youtube.com/@vertdiderscience?si=dzxT4tMADPAR1VDg) very much for the ![video](https://youtu.be/QI7oUwNrQ34?is=i0-eFHqMbeuu5OPh) about Markov's chains.
+I would like to thank [Vert Dider](https://youtube.com/@vertdiderscience?si=dzxT4tMADPAR1VDg) very much for the [video](https://youtu.be/QI7oUwNrQ34?is=i0-eFHqMbeuu5OPh) about Markov's chains.
 
