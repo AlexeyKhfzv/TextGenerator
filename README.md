@@ -18,7 +18,7 @@ As the text I took the work of Alexander Sergeevich Pushkin "Eugene Onegin". The
 ### Experiment N°2
 
 ![Experiment_2](Experiment_2.png)
-Here I added the initial token, which will be used to generate the next letter. On the next step, as a token my program will take the first one without the first character + new letter.  
+Here I added the initial token, which will be used to generate the next letter. On the next step, as a token my program will take our token without the first character + new letter.  
 * Old token: onegin  
 * Next letter: t  
 * New token: negint  
