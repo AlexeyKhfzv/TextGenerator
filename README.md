@@ -2,7 +2,7 @@
 
 ### What is this?
 
-Here I tried to make a word generator based on [Markov's chains](https://youtu.be/QI7oUwNrQ34?is=i0-eFHqMbeuu5OPh). The creator of the idea is [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon).
+Here I tried to make a word generator based on [Markov's chains](https://youtu.be/QI7oUwNrQ34?is=i0-eFHqMbeuu5OPh). The creator of the idea is [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) (if I understood it correctly).
 
 ### How does it work?
 
@@ -13,5 +13,4 @@ Here I tried to make a word generator based on [Markov's chains](https://youtu.b
 ### Experiment N°1
 
 ![Experiment_1](Experiment_1.png)
-As the text I took the work of Alexander Sergeevich Pushkin "Eugene Onegin".  
-In this experiment I just print 30 most likely characters (File: [generator1.py]()).
+As the text I took the work of Alexander Sergeevich Pushkin "Eugene Onegin". The text I received consists of 30 most likely characters (File: [generator1.py]()). 
