@@ -3,3 +3,8 @@
 ### What is this?
 
 Here I tried to make a word generator based on [Markov's chains](https://youtu.be/QI7oUwNrQ34?is=i0-eFHqMbeuu5OPh). The creator of the idea is [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon).
+
+### How does it work?
+
+*Firstly*, the program reads very huge text with lots of words.
+*Secondly*, for each set of characters, it calculates the probability which particular letter will be next. For convenience, I will call this set of characters a token.
