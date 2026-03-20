@@ -13,13 +13,17 @@ Here I tried to make a word generator based on [Markov's chains](https://youtu.b
 ### Experiment N°1
 
 ![Experiment_1](Experiment_1.png)
-As the text I took the work of Alexander Sergeevich Pushkin "Eugene Onegin". The text I received consists of 30 most likely characters (File: [generator1.py]()).
+As the text I took the work of Alexander Sergeevich Pushkin "Eugene Onegin". Then I formatted it (removed unnecessary symbols like '!', ';' and more). The result I received consists of 30 most likely characters (File: [generator1.py]()).
 
 ### Experiment N°2
 
 ![Experiment_2](Experiment_2.png)
 Here I added the initial token, which will be used to generate the next letter. On the next step, as a token my program will take the first one without the first character + new letter.  
---- 
-| Old token: onegin  
-| Next letter: t  
-| New token: negint
+* Old token: onegin  
+* Next letter: t  
+* New token: negint  
+
+### Experiment N°3
+
+![Experiment_3](Experiment_3.png)
+Here I have added the work "Sherlock Holmes" for more possible tokens. Also, I left whitespaces in the text.
