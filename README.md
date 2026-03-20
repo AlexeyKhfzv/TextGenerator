@@ -1,2 +1,2 @@
-# nonsense_generator
-Science project for generating various nonsense
+<h1 align="center">Nonsense generator</h1>  
+
