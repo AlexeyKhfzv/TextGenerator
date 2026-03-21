@@ -1,4 +1,4 @@
-<h1 align="center">Nonsense generator</h1>  
+<h1 align="center">TextGenerator</h1>  
 
 ### What Is This?
 
