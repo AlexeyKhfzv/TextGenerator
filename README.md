@@ -7,7 +7,7 @@ Here I tried to make a word generator based on [Markov's chains](https://youtu.b
 ### How Does It Work?
 
 **Firstly**, the program reads very huge text with lots of words.  
-**Secondly**, for each set of characters, it calculates the probability which particular letter will be next. For convenience, I will call this set of characters a token.  
+**Secondly**, for each set of characters, it calculates the probability which letter will be next. For convenience, I will call this set of characters a token.  
 **The last step** - for each token generate one of the most likely chars.
 
 ### Experiment N°1
