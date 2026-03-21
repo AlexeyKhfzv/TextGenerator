@@ -26,7 +26,7 @@ Here I added the initial token, which will be used to generate the next letter. 
 ### Experiment N°3
 
 ![Experiment_3](Experiment_3.png)  
-Here I have added the work "Sherlock Holmes" for more possible tokens. Also, I left whitespaces in the text. As a result I got a text, in which there are very meaningful chains of words. File: [generator2.py]().
+Here I have added the work "Sherlock Holmes" for more possible tokens. Also, I left whitespaces in the text, increased the length of tokens and changed the code a bit. As a result I got a text, in which there are very meaningful chains of words. File: [generator2.py]().
 
 ### Conclusion
 
